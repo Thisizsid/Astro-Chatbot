@@ -1,4 +1,4 @@
-# Astro-Chatbot (Astrology-only API)
+# Astro-Chatbot
 
 A FastAPI + OpenAI chatbot API that **only answers astrology-related questions**.  
 It supports:
